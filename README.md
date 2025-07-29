@@ -1,13 +1,13 @@
 <<<<<<< HEAD
-# 📱 Spam SMS Detection
+#  Spam SMS Detection
 
 This project is a machine learning model that can detect whether an SMS message is spam or not spam (ham).
 
-## 📌 Objective
+## Objective
 
 To build a model that can classify SMS messages using machine learning techniques.
 
-## 🧪 Technologies Used
+##  Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -15,7 +15,7 @@ To build a model that can classify SMS messages using machine learning technique
 - Scikit-learn
 - TF-IDF Vectorizer
 
-## 📂 Project Structure
+##  Project Structure
 Spam-SMS-Detection/
 ├── dataset/ # Contains the dataset (spam.csv)
 ├── notebooks/ # Jupyter notebook for step-by-step coding
