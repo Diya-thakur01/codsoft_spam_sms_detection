@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 Spam SMS Detection
 
 This project is a machine learning model that can detect whether an SMS message is spam or not spam (ham).
@@ -26,3 +27,7 @@ Spam-SMS-Detection/
 │ └── classification_report.txt
 ├── README.md # Project explanation (this file)
 └── requirements.txt # List of required Python libraries
+=======
+# codsoft_spam_sms_detection
+Spam SMS Detection Project
+>>>>>>> b1d2c7a9f928d71372f04d27266497a0ee52218d
